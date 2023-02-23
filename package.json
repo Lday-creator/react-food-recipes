@@ -1,5 +1,6 @@
 {
     "name": "react-food-recipes",
+    "homepage": "https://lday-creator.github.io/react-food-recipes/",
     "version": "0.1.0",
     "private": true,
     "dependencies": {

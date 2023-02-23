@@ -1,5 +1,5 @@
 function Contact() {
-    return <h1>Hello from Contact Page</h1>;
+    return <h6>Placeholder for contacts page</h6>;
 }
 
 export { Contact };
